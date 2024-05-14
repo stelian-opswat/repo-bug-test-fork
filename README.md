@@ -1,2 +1,2 @@
-# public-repo-test-2
+# repo-bug-test
 lorem ipsum dolor sit amet
